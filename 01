@@ -1,1 +1,36 @@
-
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UFT-8">
+        <meta name= "author" content=" sridhar">
+        <meta name="  description" content = "this is page is the first page i created using html">
+        <title>my site</title>
+        <link rel="icon" href="images.jpg">
+        <link rel="stylesheet" href="main.css" type="text/css">
+    </head>
+<body>
+    <h1>HELLO GUYS</h1>
+    <p>the first step to begin web development</p>
+    <hr>
+    <h2>My html site</h2>
+    <p>the creating website is fun</p>
+    <p>now let list lines using li </p>
+    <ol>
+    <li>i learn this for my future</li>
+    <li>it that true we can give numbers to the list using ol </li>
+    <li>looks fun</li>
+    </ol>
+    <br>&nbsp;&nbsp;&nbsp;this "br" command line break is good
+    <br>&nbsp;&nbsp;&nbsp;the nbsp give the single space in the line
+    <p>Noob!designing a website is fun</p>
+    <hr>
+    <h3>MY NXT STEPS</h3>
+    <p>follow and get it</p>
+    <abbr title = "welcome to web development">wtwd </abbr>
+    <strong>make the letter bold</strong>
+    <hr>
+    <p>&lt; &lt; &lt;that how we gave to give grater than and lesser than symbols &gt;&gt;&gt;</p>
+    <p>&lt; &lt; &lt;&copy;lets seee what the copy entity does &gt;&gt;&gt;</p>
+    <br>this is for the copywrite symbols
+</body>
+</html>
